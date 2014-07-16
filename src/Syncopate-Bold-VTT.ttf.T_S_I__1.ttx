@@ -1,0 +1,4089 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <TSI1>
+
+    <glyphProgram name="A">
+/* TT glyph 1, char 0x41 (A) */
+/* VTT 4.2 compiler Fri Sep 16 18:00:19 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 8
+MDAP[R], 2
+MDRP[m&lt;rGr], 7
+MDAP[R], 4
+MDRP[m>RBl], 10
+SVTCA[X]
+MDAP[R], 3
+MDRP[M>RBl], 2
+MDRP[m&lt;RGr], 8
+MDAP[R], 6
+MDRP[M>RBl], 7
+MDRP[m>RBl], 9
+IUP[X]
+IUP[Y]
+DLTP1[(3 @0 1)(3 @1 1)(3 @2 1)]
+DLTP1[(3 @3 2)]
+DLTP1[(3 @4 1)]
+DLTP1[(3 @5 2)(3 @6 2)(3 @7 2)]
+DLTP1[(3 @8 1)]
+DLTP1[(3 @9 2)]
+SDB[], 8
+DLTP1[(11 @0 -6)(11 @1 -6)(11 @2 -6)]
+DLTP1[(11 @3 -4)]
+DLTP1[(11 @4 -6)]
+DLTP1[(11 @5 -5)(11 @6 -5)(11 @7 -5)]
+DLTP1[(11 @8 -4)]
+DLTP1[(11 @9 -5)(11 @10 -5)]
+
+    </glyphProgram>
+
+    <glyphProgram name="AE">
+/* TT glyph 68, char 0xc6 */
+/* VTT 4.2 compiler Fri Sep 09 16:57:29 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m&lt;rGr], 3
+MDAP[R], 1
+MDRP[m>RBl], 17
+MDAP[R], 5
+MDRP[M>RBl], 18
+MDRP[m&lt;rGr], 8
+MDAP[R], 10
+MDRP[m>RBl], 11
+MDAP[R], 15
+MDRP[m>RBl], 14
+SRP0[], 20
+MDRP[m&lt;rGr], 4
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;rGr], 17
+MDRP[M>RBl], 13
+MDRP[m&lt;rGr], 9
+MDAP[R], 4
+MDRP[M>RBl], 3
+MDRP[m&lt;RGr], 16
+MDAP[R], 7
+MDRP[M&lt;RWh], 10
+MDRP[m&lt;RWh], 14
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="Aogonek">
+/* TT glyph 76, char 0x104 */
+/* VTT 4.2 compiler Fri Sep 09 17:01:40 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 35
+MDAP[R], 2
+MDRP[m&lt;rGr], 7
+MDAP[R], 4
+MDRP[m>RBl], 37
+MDAP[R], 24
+MDRP[m>RBl], 13
+SVTCA[X]
+MDAP[R], 3
+MDRP[M>RBl], 2
+MDRP[m&lt;RGr], 35
+MDAP[R], 6
+MDRP[m&lt;RWh], 18
+MDRP[M&lt;RGr], 34
+MDRP[m>RBl], 36
+MDAP[R], 29
+MDRP[m>RBl], 10
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="B">
+/* TT glyph 2, char 0x42 (B) */
+/* VTT 4.2 compiler Fri Sep 16 18:00:41 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[m>RBl], 46
+MDAP[R], 10
+MDRP[m>RBl], 30
+MDAP[R], 43
+MDRP[m>RBl], 33
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 38
+MDAP[R], 8
+MDRP[M>RBl], 45
+MDRP[m&lt;rGr], 32
+MDAP[R], 17
+MDRP[m>RBl], 25
+IUP[X]
+IUP[Y]
+SDB[], 8
+DLTP1[(2 @0 -3)]
+DLTP1[(3 @0 -5)]
+DLTP1[(4 @0 -1)]
+
+    </glyphProgram>
+
+    <glyphProgram name="C">
+/* TT glyph 3, char 0x43 (C) */
+/* VTT 4.2 compiler Fri Sep 09 14:18:15 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m>RBl], 37
+MDAP[R], 14
+MDRP[m>RBl], 25
+SVTCA[X]
+MDAP[R], 9
+MDRP[m>RBl], 30
+MDAP[R], 19
+MDRP[m&lt;rGr], 42
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="D">
+/* TT glyph 4, char 0x44 (D) */
+/* VTT 4.2 compiler Fri Sep 09 14:18:57 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[m>RBl], 25
+MDAP[R], 10
+MDRP[m>RBl], 22
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 17
+MDAP[R], 8
+MDRP[m>RBl], 24
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="E">
+/* TT glyph 5, char 0x45 (E) */
+/* VTT 4.2 compiler Fri Sep 09 14:23:38 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+MDAP[R], 7
+MDRP[m>RBl], 6
+MDAP[R], 11
+MDRP[m>RBl], 10
+SVTCA[X]
+MDAP[R], 0
+MDRP[M>RBl], 9
+MDRP[m&lt;rGr], 5
+MDAP[R], 2
+MDRP[M&lt;RGr], 6
+MDRP[m&lt;RWh], 10
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="Eng">
+/* TT glyph 169, char 0x14a */
+/* VTT 4.2 compiler Fri Sep 09 17:14:22 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[M&lt;RGr], 17
+MDRP[m>RBl], 0
+MDAP[R], 8
+MDRP[m&lt;rGr], 10
+SVTCA[X]
+MDAP[R], 6
+MDRP[M>RBl], 5
+MDRP[m&lt;RWh], 23
+MDAP[R], 11
+MDRP[m>RBl], 10
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="Eogonek">
+/* TT glyph 108, char 0x118 */
+/* VTT 4.2 compiler Fri Sep 09 17:04:46 2011 */
+SVTCA[Y]
+MDAP[R], 18
+MDRP[m>RBl], 7
+MDAP[R], 29
+MDRP[m>RBl], 38
+MDAP[R], 31
+MDRP[m>RBl], 32
+MDAP[R], 35
+MDRP[m>RBl], 36
+SVTCA[X]
+MDAP[R], 23
+MDRP[m>RBl], 4
+MDAP[R], 30
+MDRP[M>RBl], 33
+MDRP[m&lt;rGr], 37
+MDAP[R], 32
+MDRP[m&lt;RWh], 35
+MDAP[R], 40
+MDRP[m&lt;RWh], 12
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="Eth">
+/* TT glyph 90, char 0xd0 */
+/* VTT 4.2 compiler Fri Sep 09 15:22:26 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[m>RBl], 33
+MDAP[R], 14
+MDRP[m>RBl], 26
+MDAP[R], 29
+MDRP[m&lt;rGr], 12
+MDRP[M>RBl], 30
+MDRP[m&lt;rGr], 9
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 21
+MDAP[R], 8
+MDRP[m&lt;rGr], 12
+MDRP[M>RBl], 32
+MDRP[m&lt;rGr], 28
+MDRP[m&lt;RWh], 30
+SRP0[], 38
+MDRP[m&lt;RWh], 10
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="Euro">
+/* TT glyph 272, char 0x20ac */
+/* VTT 4.2 compiler Fri Sep 09 17:49:31 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 14
+MDAP[R], 19
+MDRP[m&lt;rGr], 0
+MDRP[M>RBl], 22
+MDRP[m&lt;rGr], 61
+MDAP[R], 47
+MDRP[m>RBl], 36
+MDAP[R], 55
+MDRP[M>RBl], 52
+MDRP[m&lt;rGr], 31
+MDAP[R], 56
+MDRP[m&lt;RBl], 28
+SVTCA[X]
+MDAP[R], 9
+MDRP[m&lt;rGr], 41
+MDAP[R], 20
+MDRP[m&lt;RGr], 29
+MDAP[R], 56
+MDRP[m>RBl], 28
+MDAP[R], 62
+MDRP[m&lt;RWh], 53
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="F">
+/* TT glyph 6, char 0x46 (F) */
+/* VTT 4.2 compiler Fri Sep 09 14:24:08 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 2
+MDAP[R], 8
+MDRP[m>RBl], 9
+SRP0[], 11
+MDRP[m&lt;rGr], 5
+SVTCA[X]
+MDAP[R], 6
+MDRP[M>RBl], 5
+MDRP[m&lt;rGr], 1
+MDAP[R], 8
+MDRP[m&lt;RGr], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="G">
+/* TT glyph 7, char 0x47 (G) */
+/* VTT 4.2 compiler Fri Sep 09 16:47:34 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m>RBl], 9
+MDAP[R], 30
+MDRP[m>RBl], 31
+MDAP[R], 38
+MDRP[m>RBl], 23
+SVTCA[X]
+MDAP[R], 33
+MDRP[m&lt;RGr], 4
+MDRP[M>RBl], 28
+MDRP[m&lt;RGr], 31
+MDAP[R], 45
+MDRP[m>RBl], 16
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="H">
+/* TT glyph 8, char 0x48 (H) */
+/* VTT 4.2 compiler Fri Sep 09 14:26:14 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 7
+MDAP[R], 3
+MDRP[m&lt;rGr], 0
+MDAP[R], 6
+MDRP[m&lt;rGr], 9
+SVTCA[X]
+MDAP[R], 4
+MDRP[M>RBl], 3
+MDRP[m&lt;rGr], 7
+MDAP[R], 11
+MDRP[M>RBl], 0
+MDRP[m&lt;rGr], 8
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="Hbar">
+/* TT glyph 122, char 0x126 */
+/* VTT 4.2 compiler Fri Sep 09 17:08:35 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m&lt;rGr], 0
+MDAP[R], 10
+MDRP[m&lt;rGr], 13
+MDAP[R], 20
+MDRP[m>RBl], 1
+MDAP[R], 21
+MDRP[m&lt;rGr], 5
+MDRP[m&lt;rGr], 18
+MDRP[M>RBl], 12
+MDRP[m&lt;rGr], 8
+MDRP[m&lt;rGr], 15
+SVTCA[X]
+MDAP[R], 4
+MDRP[m&lt;rGr], 8
+MDRP[M>RBl], 3
+MDRP[M&lt;rGr], 23
+MDRP[m&lt;rGr], 11
+MDAP[R], 19
+MDRP[m&lt;rGr], 15
+MDRP[M>RBl], 0
+MDRP[M&lt;rGr], 20
+MDRP[m&lt;rGr], 12
+SRP0[], 24
+MDRP[m&lt;RWh], 6
+SRP0[], 25
+MDRP[m&lt;RWh], 17
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="I">
+/* TT glyph 9, char 0x49 (I) */
+/* VTT 4.2 compiler Fri Sep 09 14:26:27 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="J">
+/* TT glyph 10, char 0x4a (J) */
+/* VTT 4.2 compiler Fri Sep 09 14:27:10 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 16
+MDAP[R], 22
+MDRP[m&lt;RWh], 11
+SVTCA[X]
+MDAP[R], 23
+MDRP[m>RBl], 22
+SRP0[], 24
+MDRP[m&lt;rGr], 10
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="K">
+/* TT glyph 11, char 0x4b (K) */
+/* VTT 4.2 compiler Fri Sep 09 14:49:20 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[m&lt;rGr], 5
+MDAP[R], 10
+MDRP[m&lt;rGr], 1
+SVTCA[X]
+MDAP[R], 2
+MDRP[m&lt;RWh], 4
+MDAP[R], 8
+MDRP[M>RBl], 7
+MDRP[m&lt;rGr], 0
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="L">
+/* TT glyph 12, char 0x4c (L) */
+/* VTT 4.2 compiler Fri Sep 09 16:48:15 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m&lt;RWh], 4
+SRP0[], 6
+MDRP[m&lt;rGr], 0
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+SRP0[], 7
+MDRP[m&lt;RWh], 4
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="Lslash">
+/* TT glyph 158, char 0x141 */
+/* VTT 4.2 compiler Fri Sep 09 17:12:54 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m&lt;RWh], 8
+MDAP[R], 13
+MDRP[m>RBl], 12
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;rGr], 4
+MDRP[M>RBl], 11
+MDRP[m&lt;rGr], 7
+SRP0[], 14
+MDRP[m&lt;RWh], 3
+SRP0[], 15
+MDRP[M&lt;RWh], 12
+MDRP[m&lt;RWh], 9
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="M">
+/* TT glyph 13, char 0x4d (M) */
+/* VTT 4.2 compiler Fri Sep 09 14:30:40 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[M&lt;rGr], 3
+MDRP[m&lt;rGr], 0
+MDRP[m>RBl], 9
+MDAP[R], 7
+MDRP[m&lt;rGr], 10
+SVTCA[X]
+MDAP[R], 6
+MDRP[m>RBl], 5
+MDAP[R], 12
+MDRP[m>RBl], 0
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="N">
+/* TT glyph 14, char 0x4e (N) */
+/* VTT 4.2 compiler Fri Sep 09 14:31:04 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m&lt;rGr], 0
+MDAP[R], 5
+MDRP[m&lt;rGr], 7
+SVTCA[X]
+MDAP[R], 3
+MDRP[m>RBl], 2
+MDAP[R], 8
+MDRP[m>RBl], 7
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="O">
+/* TT glyph 15, char 0x4f (O) */
+/* VTT 4.2 compiler Fri Sep 09 14:31:19 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 39
+MDAP[R], 15
+MDRP[m>RBl], 25
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 20
+MDAP[R], 10
+MDRP[m>RBl], 32
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="OE">
+/* TT glyph 191, char 0x152 */
+/* VTT 4.2 compiler Fri Sep 09 17:27:05 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 35
+MDAP[R], 19
+MDRP[m>RBl], 42
+MDAP[R], 25
+MDRP[m>RBl], 26
+MDAP[R], 29
+MDRP[m>RBl], 30
+MDAP[R], 34
+MDRP[m>RBl], 33
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;rGr], 38
+MDRP[M>RBl], 32
+MDRP[m&lt;rGr], 28
+MDAP[R], 12
+MDRP[m>RBl], 47
+MDAP[R], 25
+MDRP[M&lt;RGr], 29
+MDRP[m&lt;RWh], 33
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="Oslash">
+/* TT glyph 187, char 0xd8 */
+/* VTT 4.2 compiler Fri Sep 09 17:15:28 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m&lt;RWh], 9
+MDRP[m>RBl], 36
+MDAP[R], 19
+MDRP[m&lt;RWh], 22
+MDRP[m>RBl], 50
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RGr], 23
+MDRP[m>RBl], 27
+MDAP[R], 14
+MDRP[m&lt;RGr], 10
+MDRP[m>RBl], 41
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="P">
+/* TT glyph 16, char 0x50 (P) */
+/* VTT 4.2 compiler Fri Sep 09 14:31:51 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[M&lt;RWh], 5
+MDRP[m>RBl], 23
+MDAP[R], 10
+MDRP[m>RBl], 20
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 15
+MDAP[R], 8
+MDRP[M>RBl], 7
+MDRP[m&lt;rGr], 22
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="Q">
+/* TT glyph 17, char 0x51 (Q) */
+/* VTT 4.2 compiler Fri Sep 09 16:49:00 2011 */
+SVTCA[Y]
+MDAP[R], 12
+MDRP[m&lt;RWh], 6
+MDRP[m>RBl], 46
+MDAP[R], 22
+MDRP[m>RBl], 32
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RWh], 5
+MDRP[M>RBl], 27
+MDRP[m&lt;RGr], 52
+MDAP[R], 17
+MDRP[m>RBl], 39
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="R">
+/* TT glyph 18, char 0x52 (R) */
+/* VTT 4.2 compiler Fri Sep 09 14:34:14 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m&lt;rGr], 15
+MDAP[R], 3
+MDRP[m>RBl], 23
+MDAP[R], 16
+MDRP[m>RBl], 26
+SVTCA[X]
+MDAP[R], 1
+MDRP[M>RBl], 0
+MDRP[m&lt;rGr], 25
+MDAP[R], 8
+MDRP[m&lt;RWh], 14
+MDRP[m>RBl], 18
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="S">
+/* TT glyph 19, char 0x53 (S) */
+/* VTT 4.2 compiler Fri Sep 09 14:35:09 2011 */
+SVTCA[Y]
+MDAP[R], 17
+MDRP[m>RBl], 48
+MDAP[R], 30
+MDRP[m>RBl], 37
+MDAP[R], 60
+MDRP[m>RBl], 5
+SVTCA[X]
+MDAP[R], 23
+MDRP[m>RBl], 42
+MDRP[m&lt;RGr], 65
+MDAP[R], 53
+MDRP[m>RBl], 10
+MDRP[m&lt;RGr], 33
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="T">
+/* TT glyph 20, char 0x54 (T) */
+/* VTT 4.2 compiler Fri Sep 16 18:01:24 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[M>RBl], 7
+MDRP[m&lt;rGr], 3
+SRP0[], 8
+MDRP[m&lt;rGr], 2
+SVTCA[X]
+MDAP[R], 2
+MDRP[m&lt;RWh], 4
+MDRP[M>RBl], 1
+MDRP[m&lt;RWh], 7
+IUP[X]
+IUP[Y]
+SDB[], 8
+DLTP1[(8 @0 -6)(8 @1 -6)]
+
+    </glyphProgram>
+
+    <glyphProgram name="Tbar">
+/* TT glyph 213, char 0x166 */
+/* VTT 4.2 compiler Fri Sep 09 17:29:42 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m&lt;rGr], 7
+MDRP[M>RBl], 2
+MDRP[m&lt;rGr], 10
+MDAP[R], 14
+MDRP[M>RBl], 15
+MDRP[m&lt;rGr], 11
+SRP0[], 16
+MDRP[m&lt;rGr], 6
+SVTCA[X]
+MDAP[R], 6
+MDRP[m&lt;rGr], 10
+MDRP[M>RBl], 5
+MDRP[m&lt;rGr], 1
+SRP0[], 16
+MDRP[M&lt;RWh], 8
+MDRP[m&lt;RGr], 13
+SRP0[], 17
+MDRP[M&lt;RWh], 3
+MDRP[m&lt;RGr], 14
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="Thorn">
+/* TT glyph 193, char 0xde */
+/* VTT 4.2 compiler Fri Sep 09 15:51:34 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[M&lt;RWh], 5
+MDRP[m>RBl], 25
+MDAP[R], 10
+MDRP[M&lt;RWh], 12
+MDRP[m>RBl], 22
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 17
+MDAP[R], 8
+MDRP[M>RBl], 7
+MDRP[M&lt;rGr], 24
+MDRP[m&lt;rGr], 11
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="U">
+/* TT glyph 21, char 0x55 (U) */
+/* VTT 4.2 compiler Fri Sep 09 14:36:35 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m>RBl], 17
+MDAP[R], 11
+MDRP[m&lt;rGr], 23
+SVTCA[X]
+MDAP[R], 9
+MDRP[m>RBl], 12
+MDAP[R], 25
+MDRP[m>RBl], 22
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="Uogonek">
+/* TT glyph 233, char 0x172 */
+/* VTT 4.2 compiler Fri Sep 09 15:57:13 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m>RBl], 44
+MDAP[R], 21
+MDRP[m>RBl], 10
+MDAP[R], 38
+MDRP[m&lt;rGr], 50
+SVTCA[X]
+MDAP[R], 26
+MDRP[m>RBl], 7
+MDAP[R], 36
+MDRP[m>RBl], 39
+MDAP[R], 52
+MDRP[m>RBl], 49
+SRP0[], 54
+MDRP[m&lt;RWh], 16
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="V">
+/* TT glyph 22, char 0x56 (V) */
+/* VTT 4.2 compiler Fri Sep 16 18:01:29 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 4
+MDAP[R], 3
+MDRP[m&lt;rGr], 5
+SVTCA[X]
+SRP0[], 7
+MDRP[m&lt;RWh], 2
+SRP0[], 8
+MDRP[m&lt;RWh], 6
+IUP[X]
+IUP[Y]
+DLTP1[(7 @0 -6)]
+
+    </glyphProgram>
+
+    <glyphProgram name="W">
+/* TT glyph 23, char 0x57 (W) */
+/* VTT 4.2 compiler Fri Sep 09 14:37:59 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[m&lt;rGr], 5
+MDAP[R], 10
+MDRP[M&lt;rGr], 12
+MDRP[m&lt;rGr], 2
+SVTCA[X]
+SRP0[], 13
+MDRP[m&lt;RWh], 9
+SRP0[], 14
+MDRP[m&lt;RWh], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="X">
+/* TT glyph 24, char 0x58 (X) */
+/* VTT 4.2 compiler Fri Sep 16 18:01:38 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m&lt;rGr], 2
+MDAP[R], 8
+MDRP[m&lt;rGr], 10
+SVTCA[X]
+MDAP[R], 7
+MDRP[m&lt;RWh], 5
+MDAP[R], 11
+MDRP[m&lt;RWh], 1
+IUP[X]
+IUP[Y]
+DLTP1[(5 @0 1)]
+DLTP1[(12 @0 -6)]
+
+    </glyphProgram>
+
+    <glyphProgram name="Y">
+/* TT glyph 25, char 0x59 (Y) */
+/* VTT 4.2 compiler Fri Sep 16 18:01:42 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m&lt;rGr], 7
+SRP0[], 9
+MDRP[m&lt;rGr], 2
+SVTCA[X]
+MDAP[R], 2
+MDRP[m>RBl], 1
+SRP0[], 9
+MDRP[m&lt;RWh], 4
+SRP0[], 10
+MDRP[m&lt;RWh], 8
+IUP[X]
+IUP[Y]
+DLTP1[(9 @0 -6)]
+
+    </glyphProgram>
+
+    <glyphProgram name="Z">
+/* TT glyph 26, char 0x5a (Z) */
+/* VTT 4.2 compiler Fri Sep 09 16:50:01 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m>RBl], 3
+MDAP[R], 9
+MDRP[m>RBl], 8
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RGr], 3
+MDRP[m>RBl], 7
+MDAP[R], 8
+MDRP[m&lt;RWh], 6
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="a">
+/* TT glyph 27, char 0x61 (a) */
+/* VTT 4.2 compiler Fri Sep 16 18:01:48 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m&lt;RGr], 0
+MDRP[m>RBl], 52
+MDAP[R], 15
+MDRP[m>RBl], 41
+MDAP[R], 33
+MDRP[m>RBl], 22
+SVTCA[X]
+MDAP[R], 27
+MDRP[M&lt;RGr], 11
+MDRP[m>RBl], 46
+MDAP[R], 39
+MDRP[M>RBl], 0
+MDRP[M&lt;rGr], 57
+MDRP[m&lt;rGr], 16
+IUP[X]
+IUP[Y]
+DLTP1[(58 @0 -6)]
+
+    </glyphProgram>
+
+    <glyphProgram name="acute">
+/* TT glyph 351, char 0xb4 */
+/* VTT 4.2 compiler Sat Sep 10 10:53:01 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 1
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="ae">
+/* TT glyph 69, char 0xe6 */
+/* VTT 4.2 compiler Fri Sep 09 17:00:30 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 56
+MDAP[R], 11
+MDRP[m>RBl], 77
+MDAP[R], 38
+MDRP[m>RBl], 27
+MDAP[R], 44
+MDRP[m>RBl], 87
+MDAP[R], 50
+MDRP[m>RBl], 82
+MDAP[R], 51
+MDRP[m>RBl], 65
+MDAP[R], 92
+MDRP[m>RBl], 21
+SVTCA[X]
+MDAP[R], 33
+MDRP[M&lt;RGr], 16
+MDRP[m>RBl], 71
+MDAP[R], 48
+MDRP[m&lt;RGr], 61
+MDAP[R], 65
+MDRP[m&lt;rGr], 21
+MDRP[M>RBl], 51
+MDRP[m&lt;rGr], 92
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="ampersand">
+/* TT glyph 310, char 0x26 (&amp;) */
+/* VTT 4.2 compiler Fri Sep 09 18:30:11 2011 */
+SVTCA[Y]
+MDAP[R], 9
+MDRP[m>RBl], 43
+MDAP[R], 12
+MDRP[m&lt;RGr], 7
+MDRP[m>RBl], 47
+MDAP[R], 30
+MDRP[m>RBl], 74
+MDAP[R], 53
+MDRP[m&lt;RGr], 46
+MDRP[m>RBl], 64
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RWh], 6
+MDRP[m>RBl], 46
+MDAP[R], 17
+MDRP[m>RBl], 56
+MDAP[R], 25
+MDRP[m>RBl], 78
+MDAP[R], 35
+MDRP[m>RBl], 69
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="aogonek">
+/* TT glyph 77, char 0x105 */
+/* VTT 4.2 compiler Fri Sep 09 17:02:21 2011 */
+SVTCA[Y]
+MDAP[R], 17
+MDRP[m>RBl], 6
+MDAP[R], 33
+MDRP[m&lt;RGr], 0
+MDRP[m>RBl], 79
+MDAP[R], 42
+MDRP[m>RBl], 69
+MDAP[R], 60
+MDRP[m>RBl], 49
+SVTCA[X]
+MDAP[R], 22
+MDRP[m>RBl], 3
+MDAP[R], 55
+MDRP[M&lt;RGr], 38
+MDRP[m>RBl], 73
+MDAP[R], 66
+MDRP[m&lt;RWh], 11
+MDRP[M>RBl], 28
+MDRP[M&lt;rGr], 84
+MDRP[m&lt;rGr], 43
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="approxequal">
+/* TT glyph 290, char 0x2248 */
+/* VTT 4.2 compiler Fri Sep 09 18:13:46 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 26
+MDAP[R], 21
+MDRP[m>RBl], 10
+MDAP[R], 42
+MDRP[m>RBl], 53
+MDAP[R], 58
+MDRP[m>RBl], 37
+SVTCA[X]
+MDAP[R], 16
+MDRP[m&lt;rGr], 48
+MDAP[R], 31
+MDRP[m&lt;rGr], 63
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="asciicircum">
+/* TT glyph 304, char 0x5e (^) */
+/* VTT 4.2 compiler Fri Sep 09 18:27:02 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m&lt;rGr], 0
+MDAP[R], 5
+MDRP[m>RBl], 1
+SVTCA[X]
+SRP0[], 7
+MDRP[m&lt;RWh], 3
+SRP0[], 8
+MDRP[m&lt;RWh], 6
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="asciitilde">
+/* TT glyph 305, char 0x7e (~) */
+/* VTT 4.2 compiler Fri Sep 09 18:27:33 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m&lt;RWh], 14
+MDRP[m>RBl], 25
+MDAP[R], 20
+MDRP[m>RBl], 9
+MDRP[m&lt;RWh], 30
+SVTCA[X]
+SRP0[], 32
+MDRP[m&lt;RWh], 15
+SRP0[], 33
+MDRP[m&lt;RWh], 31
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="asterisk">
+/* TT glyph 317, char 0x2a (*) */
+/* VTT 4.2 compiler Fri Sep 09 18:36:20 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m&lt;RWh], 2
+MDAP[R], 8
+MDRP[m&lt;RWh], 6
+MDAP[R], 9
+MDRP[m&lt;RWh], 11
+MDAP[R], 17
+MDRP[m&lt;RWh], 15
+SVTCA[X]
+MDAP[R], 5
+MDRP[m&lt;RWh], 3
+MDAP[R], 12
+MDRP[m&lt;RWh], 14
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="at">
+/* TT glyph 302, char 0x40 (@) */
+/* VTT 4.2 compiler Fri Sep 09 18:26:16 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 115
+MDAP[R], 17
+MDRP[m>RBl], 107
+MDAP[R], 66
+MDRP[m>RBl], 55
+MDAP[R], 78
+MDRP[m>RBl], 43
+MDAP[R], 90
+MDRP[m>RBl], 34
+SVTCA[X]
+MDAP[R], 10
+MDRP[m>RBl], 111
+MDAP[R], 22
+MDRP[m>RBl], 100
+MDAP[R], 71
+MDRP[m>RBl], 50
+MDAP[R], 85
+MDRP[m>RBl], 38
+MDRP[m&lt;RGr], 61
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="b">
+/* TT glyph 28, char 0x62 (b) */
+/* VTT 4.2 compiler Fri Sep 09 14:41:43 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[m>RBl], 46
+MDAP[R], 10
+MDRP[m>RBl], 30
+MDAP[R], 43
+MDRP[m>RBl], 33
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 38
+MDAP[R], 8
+MDRP[M>RBl], 45
+MDRP[m&lt;rGr], 32
+MDAP[R], 17
+MDRP[m>RBl], 25
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="backslash">
+/* TT glyph 307, char 0x5c (\) */
+/* VTT 4.2 compiler Fri Sep 09 18:28:09 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 3
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="bar">
+/* TT glyph 300, char 0x7c (|) */
+/* VTT 4.2 compiler Fri Sep 09 18:24:43 2011 */
+SVTCA[Y]
+SRP0[], 4
+MDRP[m&lt;RWh], 0
+SRP0[], 5
+MDRP[m&lt;RWh], 2
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="braceleft">
+/* TT glyph 315, char 0x7b ({) */
+/* VTT 4.2 compiler Fri Sep 09 18:33:59 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m>RBl], 7
+MDAP[R], 20
+MDRP[m>RBl], 21
+MDAP[R], 46
+MDRP[m>RBl], 45
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 37
+MDAP[R], 7
+MDRP[m>RBl], 33
+MDAP[R], 14
+MDRP[m>RBl], 29
+MDAP[R], 21
+MDRP[m&lt;rGr], 45
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="braceright">
+/* TT glyph 316, char 0x7d (}) */
+/* VTT 4.2 compiler Fri Sep 09 18:34:44 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m>RBl], 7
+MDAP[R], 32
+MDRP[m>RBl], 31
+MDAP[R], 46
+MDRP[m>RBl], 45
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 13
+MDAP[R], 31
+MDRP[m&lt;rGr], 7
+MDAP[R], 40
+MDRP[m>RBl], 24
+MDAP[R], 46
+MDRP[m>RBl], 19
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="bracketleft">
+/* TT glyph 313, char 0x5b ([) */
+/* VTT 4.2 compiler Fri Sep 09 18:31:52 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 4
+MDAP[R], 7
+MDRP[m>RBl], 6
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 5
+MDAP[R], 6
+MDRP[m&lt;rGr], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="bracketright">
+/* TT glyph 314, char 0x5d (]) */
+/* VTT 4.2 compiler Fri Sep 09 18:32:24 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m>RBl], 1
+MDAP[R], 6
+MDRP[m>RBl], 3
+SVTCA[X]
+MDAP[R], 4
+MDRP[m&lt;rGr], 1
+MDAP[R], 7
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="breve">
+/* TT glyph 357, char 0x2d8 */
+/* VTT 4.2 compiler Sat Sep 10 10:58:10 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m>RBl], 19
+MDAP[R], 15
+MDRP[m&lt;rGr], 23
+SVTCA[X]
+SRP0[], 26
+MDRP[m&lt;RWh], 12
+SRP0[], 27
+MDRP[m&lt;RWh], 0
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="brokenbar">
+/* TT glyph 301, char 0xa6 */
+/* VTT 4.2 compiler Fri Sep 09 18:25:05 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+MDAP[R], 7
+MDRP[m>RBl], 6
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+MDAP[R], 5
+MDRP[m>RBl], 6
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="bullet">
+/* TT glyph 303, char 0x2022 */
+/* VTT 4.2 compiler Fri Sep 09 18:26:40 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 15
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 10
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="c">
+/* TT glyph 29, char 0x63 (c) */
+/* VTT 4.2 compiler Fri Sep 09 14:42:30 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m>RBl], 37
+MDAP[R], 14
+MDRP[m>RBl], 25
+SVTCA[X]
+MDAP[R], 9
+MDRP[m>RBl], 30
+MDAP[R], 19
+MDRP[m&lt;rGr], 42
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="caron">
+/* TT glyph 356, char 0x2c7 */
+/* VTT 4.2 compiler Sat Sep 10 10:57:50 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m&lt;rGr], 2
+MDAP[R], 4
+MDRP[m>RBl], 1
+SVTCA[X]
+SRP0[], 6
+MDRP[m&lt;RWh], 5
+SRP0[], 7
+MDRP[m&lt;RWh], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="cedilla">
+/* TT glyph 354, char 0xb8 */
+/* VTT 4.2 compiler Sat Sep 10 10:57:10 2011 */
+SVTCA[Y]
+MDAP[R], 33
+MDRP[M&lt;RGr], 1
+MDRP[m>RBl], 27
+SRP0[], 35
+MDRP[m&lt;RGr], 10
+SVTCA[X]
+MDAP[R], 5
+MDRP[m>RBl], 23
+MDAP[R], 33
+MDRP[m>RBl], 34
+SRP0[], 35
+MDRP[m&lt;RWh], 15
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="cent">
+/* TT glyph 268, char 0xa2 */
+/* VTT 4.2 compiler Fri Sep 09 17:37:19 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m&lt;RBl], 6
+MDRP[M>RBl], 31
+MDRP[m&lt;RBl], 42
+MDAP[R], 17
+MDRP[m&lt;rGr], 18
+MDAP[R], 19
+MDRP[m&lt;RBl], 16
+MDRP[M>RBl], 30
+MDRP[m&lt;RBl], 43
+SRP0[], 48
+MDRP[m&lt;RWh], 5
+SVTCA[X]
+MDAP[R], 5
+MDRP[M>RBl], 4
+MDRP[M&lt;rGr], 31
+MDRP[m&lt;rGr], 19
+SRP0[], 5
+MDRP[M&lt;rGr], 42
+MDRP[m&lt;rGr], 16
+MDAP[R], 11
+MDRP[m>RBl], 37
+MDAP[R], 24
+MDRP[m&lt;rGr], 36
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflex">
+/* TT glyph 355, char 0x2c6 */
+/* VTT 4.2 compiler Sat Sep 10 10:57:32 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m&lt;rGr], 0
+MDAP[R], 4
+MDRP[m>RBl], 1
+SVTCA[X]
+SRP0[], 6
+MDRP[m&lt;RWh], 3
+SRP0[], 7
+MDRP[m&lt;RWh], 5
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="colon">
+/* TT glyph 327, char 0x3a (:) */
+/* VTT 4.2 compiler Fri Sep 09 18:45:42 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 2
+MDAP[R], 6
+MDRP[m>RBl], 7
+SVTCA[X]
+MDAP[R], 1
+MDRP[m&lt;rGr], 4
+MDAP[R], 2
+MDRP[m&lt;rGr], 7
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="comma">
+/* TT glyph 326, char 0x2c (,) */
+/* VTT 4.2 compiler Fri Sep 09 18:45:25 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 2
+MDRP[m>RBl], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="commaaccent">
+/* TT glyph 368, char 0x326 */
+/* VTT 4.2 compiler Sat Sep 10 11:02:03 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 2
+MDRP[m>RBl], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="copyright">
+/* TT glyph 322, char 0xa9 */
+/* VTT 4.2 compiler Fri Sep 09 18:42:46 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[m>RBl], 73
+MDAP[R], 21
+MDRP[m>RBl], 83
+MDAP[R], 31
+MDRP[m>RBl], 62
+MDAP[R], 41
+MDRP[m>RBl], 52
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 78
+MDAP[R], 14
+MDRP[m>RBl], 68
+MDAP[R], 36
+MDRP[m>RBl], 57
+MDAP[R], 67
+MDRP[m&lt;rGr], 47
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="currency">
+/* TT glyph 273, char 0xa4 */
+/* VTT 4.2 compiler Fri Sep 09 16:29:53 2011 */
+SVTCA[Y]
+MDAP[R], 12
+MDRP[m>RBl], 41
+MDAP[R], 16
+MDRP[m&lt;rGr], 8
+MDAP[R], 26
+MDRP[m&lt;rGr], 34
+MDAP[R], 30
+MDRP[m>RBl], 51
+SVTCA[X]
+MDAP[R], 3
+MDRP[m>RBl], 46
+MDAP[R], 21
+MDRP[m>RBl], 36
+MDAP[R], 25
+MDRP[m&lt;rGr], 17
+MDAP[R], 35
+MDRP[m&lt;rGr], 7
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="d">
+/* TT glyph 30, char 0x64 (d) */
+/* VTT 4.2 compiler Fri Sep 09 14:43:00 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[m>RBl], 25
+MDAP[R], 10
+MDRP[m>RBl], 22
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 17
+MDAP[R], 8
+MDRP[m>RBl], 24
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="dagger">
+/* TT glyph 318, char 0x2020 */
+/* VTT 4.2 compiler Fri Sep 09 18:37:40 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m>RBl], 11
+MDAP[R], 5
+MDRP[m>RBl], 6
+SRP0[], 12
+MDRP[m&lt;RWh], 9
+SRP0[], 13
+MDRP[m&lt;RGr], 3
+SVTCA[X]
+MDAP[R], 10
+MDRP[M&lt;rGr], 1
+MDRP[m>RBl], 11
+SRP0[], 10
+MDRP[M>RBl], 7
+MDRP[M&lt;rGr], 4
+MDRP[m>RBl], 6
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="daggerdbl">
+/* TT glyph 319, char 0x2021 */
+/* VTT 4.2 compiler Fri Sep 09 18:39:13 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m>RBl], 19
+MDAP[R], 5
+MDRP[m&lt;RWh], 3
+MDRP[m>RBl], 6
+MDAP[R], 10
+MDRP[m>RBl], 9
+MDAP[R], 15
+MDRP[m>RBl], 16
+SRP0[], 20
+MDRP[m&lt;RWh], 13
+SVTCA[X]
+MDAP[R], 14
+MDRP[M>RBl], 11
+MDRP[M&lt;rGr], 8
+MDRP[m>RBl], 10
+MDRP[M&lt;rGr], 4
+MDRP[m>RBl], 6
+SRP0[], 14
+MDRP[M&lt;rGr], 17
+MDRP[m>RBl], 15
+MDRP[M&lt;rGr], 1
+MDRP[m>RBl], 19
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="degree">
+/* TT glyph 283, char 0xb0 */
+/* VTT 4.2 compiler Fri Sep 09 18:03:39 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 33
+MDAP[R], 15
+MDRP[m>RBl], 23
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 20
+MDAP[R], 10
+MDRP[m>RBl], 28
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="dieresis">
+/* TT glyph 352, char 0xa8 */
+/* VTT 4.2 compiler Sat Sep 10 10:53:20 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m&lt;rGr], 5
+MDAP[R], 3
+MDRP[m&lt;rGr], 4
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+MDAP[R], 6
+MDRP[m>RBl], 5
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="divide">
+/* TT glyph 292, char 0xf7 */
+/* VTT 4.2 compiler Fri Sep 09 18:15:06 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 2
+MDAP[R], 6
+MDRP[m>RBl], 7
+MDAP[R], 11
+MDRP[m>RBl], 10
+SVTCA[X]
+MDAP[R], 9
+MDRP[M&lt;RWh], 0
+MDRP[m&lt;RGr], 4
+MDAP[R], 10
+MDRP[M&lt;RWh], 3
+MDRP[m&lt;RGr], 7
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="dollar">
+/* TT glyph 267, char 0x24 ($) */
+/* VTT 4.2 compiler Fri Sep 09 17:39:01 2011 */
+SVTCA[Y]
+MDAP[R], 23
+MDRP[m&lt;rGr], 24
+MDAP[R], 29
+MDRP[m&lt;RGr], 4
+SRP0[], 74
+MDRP[m&lt;RWh], 51
+SVTCA[X]
+MDAP[R], 15
+MDRP[m&lt;RGr], 4
+MDRP[m>RBl], 63
+MDAP[R], 28
+MDRP[M&lt;RGr], 42
+MDRP[m>RBl], 52
+MDAP[R], 51
+MDRP[M&lt;rGr], 7
+MDRP[M&lt;rGr], 68
+MDRP[m&lt;rGr], 22
+SRP0[], 51
+MDRP[M>RBl], 50
+MDRP[M&lt;rGr], 58
+MDRP[M&lt;rGr], 35
+MDRP[m&lt;rGr], 25
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="dotaccent">
+/* TT glyph 358, char 0x2d9 */
+/* VTT 4.2 compiler Sat Sep 10 10:58:19 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="dotlessi">
+/* TT glyph 141, char 0x131 */
+/* VTT 4.2 compiler Fri Sep 09 15:33:50 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="dotlessj">
+/* TT glyph 146, char 0x237 */
+/* VTT 4.2 compiler Fri Sep 09 15:34:19 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 16
+MDAP[R], 12
+MDRP[m&lt;RWh], 22
+SVTCA[X]
+MDAP[R], 23
+MDRP[m>RBl], 22
+SRP0[], 24
+MDRP[m&lt;rGr], 11
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="e">
+/* TT glyph 31, char 0x65 (e) */
+/* VTT 4.2 compiler Fri Sep 09 16:51:11 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 25
+MDAP[R], 13
+MDRP[m>RBl], 36
+MDAP[R], 20
+MDRP[m>RBl], 41
+SVTCA[X]
+MDAP[R], 8
+MDRP[M>RBl], 41
+MDRP[m&lt;rGr], 20
+MDAP[R], 18
+MDRP[m&lt;RGr], 0
+MDRP[m>RBl], 31
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="eight">
+/* TT glyph 265, char 0x38 (8) */
+/* VTT 4.2 compiler Fri Sep 09 16:07:47 2011 */
+SVTCA[Y]
+MDAP[R], 10
+MDRP[m>RBl], 72
+MDAP[R], 30
+MDRP[m>RBl], 45
+MDAP[R], 55
+MDRP[m>RBl], 60
+SVTCA[X]
+MDAP[R], 5
+MDRP[m>RBl], 79
+MDAP[R], 15
+MDRP[m>RBl], 65
+MDAP[R], 25
+MDRP[m>RBl], 50
+MDAP[R], 35
+MDRP[m>RBl], 40
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="ellipsis">
+/* TT glyph 344, char 0x2026 */
+/* VTT 4.2 compiler Sat Sep 10 10:51:37 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[M&lt;rGr], 5
+MDRP[m&lt;rGr], 9
+MDAP[R], 3
+MDRP[M&lt;rGr], 7
+MDRP[m&lt;rGr], 8
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+MDAP[R], 6
+MDRP[m>RBl], 5
+MDAP[R], 10
+MDRP[m>RBl], 9
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="emdash">
+/* TT glyph 348, char 0x2014 */
+/* VTT 4.2 compiler Sat Sep 10 10:52:26 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 0
+SVTCA[X]
+SRP0[], 4
+MDRP[m&lt;rGr], 0
+SRP0[], 5
+MDRP[m&lt;rGr], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="endash">
+/* TT glyph 347, char 0x2013 */
+/* VTT 4.2 compiler Sat Sep 10 10:52:14 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+SVTCA[X]
+SRP0[], 4
+MDRP[m&lt;RWh], 0
+SRP0[], 5
+MDRP[m&lt;RWh], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="eng">
+/* TT glyph 170, char 0x14b */
+/* VTT 4.2 compiler Fri Sep 09 17:14:49 2011 */
+SVTCA[Y]
+MDAP[R], 11
+MDRP[M&lt;RGr], 31
+MDRP[m>RBl], 42
+MDAP[R], 14
+MDRP[M&lt;RGr], 20
+MDRP[m>RBl], 5
+SVTCA[X]
+MDAP[R], 12
+MDRP[M>RBl], 11
+MDRP[m&lt;rGr], 15
+MDAP[R], 25
+MDRP[M>RBl], 0
+MDRP[m&lt;RWh], 37
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="eogonek">
+/* TT glyph 109, char 0x119 */
+/* VTT 4.2 compiler Fri Sep 09 17:05:30 2011 */
+SVTCA[Y]
+MDAP[R], 19
+MDRP[m>RBl], 8
+MDAP[R], 34
+MDRP[m>RBl], 56
+MDAP[R], 44
+MDRP[m>RBl], 67
+MDAP[R], 51
+MDRP[m>RBl], 72
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RWh], 13
+MDAP[R], 23
+MDRP[m>RBl], 5
+MDAP[R], 39
+MDRP[M>RBl], 52
+MDRP[m&lt;RGr], 72
+MDAP[R], 48
+MDRP[m>RBl], 62
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="equal">
+/* TT glyph 288, char 0x3d (=) */
+/* VTT 4.2 compiler Fri Sep 09 18:10:23 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+MDAP[R], 7
+MDRP[m>RBl], 6
+SVTCA[X]
+MDAP[R], 4
+MDRP[m&lt;rGr], 0
+MDAP[R], 7
+MDRP[m&lt;rGr], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="exclam">
+/* TT glyph 329, char 0x21 (!) */
+/* VTT 4.2 compiler Fri Sep 09 18:47:42 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m>RBl], 0
+MDAP[R], 9
+MDRP[m>RBl], 8
+SVTCA[X]
+MDAP[R], 3
+MDRP[m&lt;RGr], 7
+MDRP[M>RBl], 4
+MDRP[m&lt;RGr], 8
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="exclamdown">
+/* TT glyph 330, char 0xa1 */
+/* VTT 4.2 compiler Fri Sep 09 18:47:13 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[M>RBl], 7
+MDRP[m&lt;RWh], 0
+SRP0[], 11
+MDRP[m&lt;RWh], 3
+SVTCA[X]
+MDAP[R], 4
+MDRP[m&lt;RGr], 9
+MDRP[M>RBl], 3
+MDRP[m&lt;RGr], 6
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="f">
+/* TT glyph 32, char 0x66 (f) */
+/* VTT 4.2 compiler Fri Sep 09 16:51:24 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[m>RBl], 8
+MDAP[R], 18
+MDRP[m>RBl], 19
+SRP0[], 20
+MDRP[m&lt;rGr], 11
+SVTCA[X]
+MDAP[R], 11
+MDRP[M>RBl], 10
+MDRP[m&lt;rGr], 6
+MDAP[R], 19
+MDRP[m&lt;RWh], 7
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="five">
+/* TT glyph 262, char 0x35 (5) */
+/* VTT 4.2 compiler Fri Sep 09 17:34:42 2011 */
+SVTCA[Y]
+MDAP[R], 17
+MDRP[m>RBl], 28
+MDAP[R], 39
+MDRP[m>RBl], 5
+MDAP[R], 42
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 12
+MDRP[m&lt;RGr], 0
+MDRP[m>RBl], 31
+MDAP[R], 41
+MDRP[m>RBl], 1
+MDRP[m&lt;RWh], 23
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="florin">
+/* TT glyph 271, char 0x192 */
+/* VTT 4.2 compiler Fri Sep 09 17:44:50 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m>RBl], 17
+MDAP[R], 24
+MDRP[m&lt;rGr], 0
+MDRP[M>RBl], 25
+MDRP[m&lt;rGr], 49
+MDAP[R], 32
+MDRP[m>RBl], 43
+SVTCA[X]
+MDAP[R], 11
+MDRP[m&lt;RGr], 24
+MDAP[R], 49
+MDRP[m>RBl], 0
+MDRP[M>RBl], 26
+MDRP[m>RBl], 23
+MDAP[R], 50
+MDRP[m&lt;RWh], 38
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="four">
+/* TT glyph 261, char 0x34 (4) */
+/* VTT 4.2 compiler Fri Sep 09 17:33:06 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[m>RBl], 11
+MDAP[R], 9
+MDRP[m&lt;rGr], 13
+MDRP[M>RBl], 10
+MDRP[m&lt;rGr], 3
+SRP0[], 14
+MDRP[m&lt;rGr], 2
+SVTCA[X]
+MDAP[R], 2
+MDRP[m&lt;rGr], 13
+MDRP[M>RBl], 1
+MDRP[m&lt;rGr], 8
+MDAP[R], 4
+MDRP[m>RBl], 12
+SRP0[], 15
+MDRP[m&lt;RWh], 10
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="fraction">
+/* TT glyph 299, char 0x2044 */
+/* VTT 4.2 compiler Fri Sep 09 18:24:19 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 3
+MDRP[m>RBl], 1
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="g">
+/* TT glyph 33, char 0x67 (g) */
+/* VTT 4.2 compiler Fri Sep 09 16:51:50 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m>RBl], 9
+MDAP[R], 30
+MDRP[m>RBl], 31
+MDAP[R], 38
+MDRP[m>RBl], 23
+SVTCA[X]
+MDAP[R], 33
+MDRP[m&lt;RGr], 4
+MDRP[M>RBl], 28
+MDRP[m&lt;RGr], 31
+MDAP[R], 45
+MDRP[m>RBl], 16
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="germandbls">
+/* TT glyph 55, char 0xdf */
+/* VTT 4.2 compiler Fri Sep 09 16:56:03 2011 */
+SVTCA[Y]
+MDAP[R], 17
+MDRP[m>RBl], 14
+MDAP[R], 33
+MDRP[M&lt;RGr], 60
+MDRP[m>RBl], 4
+MDAP[R], 40
+MDRP[m>RBl], 27
+SVTCA[X]
+MDAP[R], 34
+MDRP[m>RBl], 33
+MDAP[R], 45
+MDRP[m>RBl], 21
+MDAP[R], 55
+MDRP[m>RBl], 9
+MDAP[R], 66
+MDRP[m&lt;RWh], 15
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="grave">
+/* TT glyph 350, char 0x60 (`) */
+/* VTT 4.2 compiler Sat Sep 10 10:52:49 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m>RBl], 2
+SVTCA[X]
+MDAP[R], 3
+MDRP[m>RBl], 1
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="greater">
+/* TT glyph 296, char 0x3e (>) */
+/* VTT 4.2 compiler Fri Sep 09 18:20:52 2011 */
+SVTCA[Y]
+SRP0[], 7
+MDRP[m&lt;RWh], 0
+SRP0[], 8
+MDRP[m&lt;RGr], 4
+SVTCA[X]
+MDAP[R], 3
+MDRP[m&lt;rGr], 1
+MDAP[R], 6
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="greaterequal">
+/* TT glyph 298, char 0x2265 */
+/* VTT 4.2 compiler Fri Sep 09 18:23:39 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 2
+MDAP[R], 4
+MDRP[m&lt;RWh], 8
+SVTCA[X]
+MDAP[R], 5
+MDRP[m&lt;rGr], 1
+MDRP[m&lt;rGr], 7
+MDAP[R], 10
+MDRP[m&lt;rGr], 2
+MDRP[m>RBl], 6
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="guillemotleft">
+/* TT glyph 341, char 0xab */
+/* VTT 4.2 compiler Sat Sep 10 10:50:28 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m&lt;rGr], 9
+MDAP[R], 6
+MDRP[m&lt;rGr], 13
+SVTCA[X]
+MDAP[R], 3
+MDRP[m&lt;rGr], 5
+MDAP[R], 4
+MDRP[m>RBl], 1
+MDAP[R], 8
+MDRP[m>RBl], 11
+MDAP[R], 10
+MDRP[m&lt;rGr], 12
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="guillemotright">
+/* TT glyph 342, char 0xbb */
+/* VTT 4.2 compiler Sat Sep 10 10:50:55 2011 */
+SVTCA[Y]
+MDAP[R], 9
+MDRP[m&lt;rGr], 2
+MDAP[R], 13
+MDRP[m&lt;rGr], 6
+SVTCA[X]
+MDAP[R], 4
+MDRP[m>RBl], 0
+MDAP[R], 5
+MDRP[m&lt;rGr], 3
+MDAP[R], 8
+MDRP[m>RBl], 11
+MDAP[R], 12
+MDRP[m&lt;rGr], 10
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="guilsinglleft">
+/* TT glyph 339, char 0x2039 */
+/* VTT 4.2 compiler Sat Sep 10 10:49:20 2011 */
+SVTCA[Y]
+SRP0[], 7
+MDRP[m&lt;RWh], 6
+SRP0[], 8
+MDRP[m&lt;RGr], 2
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 4
+MDAP[R], 3
+MDRP[m&lt;rGr], 5
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="guilsinglright">
+/* TT glyph 340, char 0x203a */
+/* VTT 4.2 compiler Sat Sep 10 10:49:44 2011 */
+SVTCA[Y]
+SRP0[], 7
+MDRP[m&lt;RWh], 2
+SRP0[], 8
+MDRP[m&lt;RGr], 6
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 4
+MDAP[R], 5
+MDRP[m&lt;rGr], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="h">
+/* TT glyph 34, char 0x68 (h) */
+/* VTT 4.2 compiler Fri Sep 09 14:47:03 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 7
+MDAP[R], 3
+MDRP[m&lt;rGr], 0
+MDAP[R], 6
+MDRP[m&lt;rGr], 9
+SVTCA[X]
+MDAP[R], 4
+MDRP[M>RBl], 3
+MDRP[m&lt;rGr], 7
+MDAP[R], 11
+MDRP[M>RBl], 0
+MDRP[m&lt;rGr], 8
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="hbar">
+/* TT glyph 123, char 0x127 */
+/* VTT 4.2 compiler Fri Sep 09 17:10:24 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m&lt;rGr], 0
+MDAP[R], 10
+MDRP[m&lt;rGr], 13
+MDAP[R], 21
+MDRP[m&lt;rGr], 5
+MDRP[m&lt;rGr], 18
+MDRP[M>RBl], 12
+MDRP[m&lt;rGr], 8
+MDRP[m&lt;rGr], 15
+MDAP[R], 23
+MDRP[m>RBl], 2
+SVTCA[X]
+MDAP[R], 4
+MDRP[m&lt;rGr], 8
+MDRP[M>RBl], 3
+MDRP[M&lt;rGr], 23
+MDRP[m&lt;rGr], 11
+MDAP[R], 19
+MDRP[m&lt;rGr], 15
+MDRP[M>RBl], 0
+MDRP[m&lt;rGr], 20
+SRP0[], 24
+MDRP[m&lt;RWh], 6
+SRP0[], 25
+MDRP[m&lt;RWh], 17
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="hungarumlaut">
+/* TT glyph 362, char 0x2dd */
+/* VTT 4.2 compiler Sat Sep 10 11:00:13 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m&lt;rGr], 5
+MDAP[R], 3
+MDRP[m&lt;rGr], 7
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 2
+MDAP[R], 6
+MDRP[m>RBl], 4
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="hyphen">
+/* TT glyph 345, char 0x2d (-) */
+/* VTT 4.2 compiler Sat Sep 10 10:51:49 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+SVTCA[X]
+SRP0[], 4
+MDRP[m&lt;RWh], 0
+SRP0[], 5
+MDRP[m&lt;RWh], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="i">
+/* TT glyph 35, char 0x69 (i) */
+/* VTT 4.2 compiler Fri Sep 09 14:47:25 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="j">
+/* TT glyph 36, char 0x6a (j) */
+/* VTT 4.2 compiler Fri Sep 09 14:50:17 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 16
+MDAP[R], 22
+MDRP[m&lt;RWh], 11
+SVTCA[X]
+MDAP[R], 22
+MDRP[m>RBl], 23
+SRP0[], 24
+MDRP[m&lt;rGr], 10
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="k">
+/* TT glyph 37, char 0x6b (k) */
+/* VTT 4.2 compiler Fri Sep 09 14:51:47 2011 */
+SVTCA[Y]
+MDAP[R], 8
+MDRP[m>RBl], 13
+MDAP[R], 9
+MDRP[m&lt;rGr], 0
+MDAP[R], 12
+MDRP[m&lt;rGr], 21
+SVTCA[X]
+MDAP[R], 10
+MDRP[M>RBl], 9
+MDRP[m&lt;rGr], 13
+MDAP[R], 22
+MDRP[m>RBl], 21
+MDAP[R], 36
+MDRP[m>RBl], 0
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="l">
+/* TT glyph 38, char 0x6c (l) */
+/* VTT 4.2 compiler Fri Sep 09 14:53:38 2011 */
+SVTCA[Y]
+MDAP[R], 8
+MDRP[m>RBl], 5
+SRP0[], 16
+MDRP[m&lt;RWh], 14
+SVTCA[X]
+MDAP[R], 14
+MDRP[M>RBl], 15
+MDRP[m&lt;RWh], 6
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="less">
+/* TT glyph 295, char 0x3c (&lt;) */
+/* VTT 4.2 compiler Fri Sep 09 18:20:28 2011 */
+SVTCA[Y]
+SRP0[], 7
+MDRP[m&lt;RGr], 2
+SRP0[], 8
+MDRP[m&lt;RWh], 6
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 4
+MDAP[R], 3
+MDRP[m&lt;rGr], 5
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="lessequal">
+/* TT glyph 297, char 0x2264 */
+/* VTT 4.2 compiler Fri Sep 09 18:22:32 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m>RBl], 1
+MDAP[R], 10
+MDRP[m&lt;RWh], 6
+SVTCA[X]
+MDAP[R], 4
+MDRP[m>RBl], 8
+MDAP[R], 9
+MDRP[m&lt;rGr], 2
+MDRP[m&lt;rGr], 7
+SRP0[], 11
+MDRP[m&lt;RWh], 1
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="logicalnot">
+/* TT glyph 293, char 0xac */
+/* VTT 4.2 compiler Fri Sep 09 18:15:42 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 2
+SRP0[], 7
+MDRP[m&lt;RWh], 5
+SVTCA[X]
+MDAP[R], 4
+MDRP[m>RBl], 1
+SRP0[], 6
+MDRP[m&lt;RWh], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="lslash">
+/* TT glyph 159, char 0x142 */
+/* VTT 4.2 compiler Fri Sep 09 17:13:39 2011 */
+SVTCA[Y]
+MDAP[R], 12
+MDRP[m>RBl], 9
+MDAP[R], 23
+MDRP[m&lt;RWh], 1
+SVTCA[X]
+MDAP[R], 22
+MDRP[m&lt;rGr], 18
+MDRP[M>RBl], 23
+MDRP[m&lt;rGr], 3
+SRP0[], 24
+MDRP[m&lt;RWh], 20
+SRP0[], 25
+MDRP[M&lt;RWh], 10
+MDRP[m&lt;RWh], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="m">
+/* TT glyph 39, char 0x6d (m) */
+/* VTT 4.2 compiler Fri Sep 09 16:52:39 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[m&lt;RGr], 0
+MDRP[m>RBl], 41
+MDAP[R], 16
+MDRP[m>RBl], 29
+MDAP[R], 48
+MDRP[M&lt;rGr], 36
+MDRP[m&lt;rGr], 23
+SVTCA[X]
+MDAP[R], 22
+MDRP[m>RBl], 23
+MDAP[R], 36
+MDRP[m>RBl], 35
+MDAP[R], 49
+MDRP[M>RBl], 48
+MDRP[m&lt;rGr], 1
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="macron">
+/* TT glyph 353, char 0xaf */
+/* VTT 4.2 compiler Sat Sep 10 10:53:33 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+SVTCA[X]
+SRP0[], 4
+MDRP[m&lt;RWh], 0
+SRP0[], 5
+MDRP[m&lt;RWh], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="micro">
+/* TT glyph 365, char 0xb5 */
+/* VTT 4.2 compiler Sat Sep 10 11:00:52 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m&lt;rGr], 12
+MDAP[R], 33
+MDRP[m>RBl], 6
+MDAP[R], 39
+MDRP[m&lt;RWh], 23
+SVTCA[X]
+MDAP[R], 13
+MDRP[m>RBl], 12
+MDAP[R], 41
+MDRP[M>RBl], 0
+MDRP[m>RBl], 38
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="minus">
+/* TT glyph 287, char 0x2212 */
+/* VTT 4.2 compiler Fri Sep 09 18:10:00 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m>RBl], 1
+SVTCA[X]
+SRP0[], 4
+MDRP[m&lt;RWh], 2
+SRP0[], 5
+MDRP[m&lt;RWh], 1
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="mu">
+/* TT glyph 366, char 0x3bc */
+/* VTT 4.2 compiler Sat Sep 10 11:01:17 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m&lt;rGr], 12
+MDAP[R], 33
+MDRP[m>RBl], 6
+MDAP[R], 39
+MDRP[m&lt;RWh], 23
+SVTCA[X]
+MDAP[R], 13
+MDRP[m>RBl], 12
+MDAP[R], 41
+MDRP[m>RBl], 0
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="multiply">
+/* TT glyph 291, char 0xd7 */
+/* VTT 4.2 compiler Fri Sep 09 18:14:07 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m&lt;rGr], 2
+MDAP[R], 8
+MDRP[m&lt;rGr], 10
+SVTCA[X]
+MDAP[R], 7
+MDRP[m&lt;rGr], 5
+MDAP[R], 11
+MDRP[m&lt;rGr], 1
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="n">
+/* TT glyph 40, char 0x6e (n) */
+/* VTT 4.2 compiler Fri Sep 09 14:57:37 2011 */
+SVTCA[Y]
+MDAP[R], 12
+MDRP[m&lt;rGr], 0
+MDAP[R], 15
+MDRP[M&lt;RGr], 21
+MDRP[m>RBl], 6
+SVTCA[X]
+MDAP[R], 13
+MDRP[m>RBl], 12
+MDAP[R], 27
+MDRP[m>RBl], 0
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="nine">
+/* TT glyph 266, char 0x39 (9) */
+/* VTT 4.2 compiler Fri Sep 09 16:08:45 2011 */
+SVTCA[Y]
+MDAP[R], 10
+MDRP[m>RBl], 56
+MDAP[R], 20
+MDRP[m>RBl], 46
+MDAP[R], 30
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 15
+MDRP[m&lt;RGr], 36
+MDRP[m>RBl], 51
+MDAP[R], 25
+MDRP[M>RBl], 41
+MDRP[m&lt;RBl], 5
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="notequal">
+/* TT glyph 289, char 0x2260 */
+/* VTT 4.2 compiler Fri Sep 09 18:12:37 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m>RBl], 5
+MDAP[R], 9
+MDRP[m>RBl], 8
+MDRP[m&lt;RWh], 11
+MDAP[R], 14
+MDRP[m>RBl], 15
+MDAP[R], 19
+MDRP[m>RBl], 18
+SRP0[], 21
+MDRP[m&lt;RWh], 1
+SVTCA[X]
+MDAP[R], 2
+MDRP[M>RBl], 1
+MDRP[M&lt;RGr], 17
+MDRP[m&lt;RGr], 13
+SRP0[], 2
+MDRP[M&lt;RGr], 6
+MDRP[m>RBl], 10
+MDAP[R], 4
+MDRP[m&lt;rGr], 8
+MDAP[R], 19
+MDRP[m&lt;rGr], 15
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="numbersign">
+/* TT glyph 276, char 0x23 (#) */
+/* VTT 4.2 compiler Fri Sep 09 17:53:46 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[m&lt;rGr], 4
+MDRP[m&lt;rGr], 11
+MDRP[M>RBl], 30
+MDRP[m&lt;rGr], 1
+MDRP[m&lt;rGr], 14
+MDAP[R], 9
+MDRP[m&lt;rGr], 6
+MDAP[R], 20
+MDRP[m&lt;rGr], 23
+MDAP[R], 22
+MDRP[m&lt;rGr], 18
+MDRP[m&lt;rGr], 25
+MDRP[M>RBl], 31
+MDRP[m&lt;rGr], 0
+MDRP[m&lt;rGr], 15
+SVTCA[X]
+MDAP[R], 2
+MDRP[m&lt;RGr], 26
+MDAP[R], 13
+MDRP[m&lt;RWh], 17
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="o">
+/* TT glyph 41, char 0x6f (o) */
+/* VTT 4.2 compiler Fri Sep 09 14:56:44 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 39
+MDAP[R], 15
+MDRP[m>RBl], 25
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 20
+MDAP[R], 10
+MDRP[m>RBl], 32
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="oe">
+/* TT glyph 192, char 0x153 */
+/* VTT 4.2 compiler Fri Sep 09 17:27:42 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m>RBl], 39
+MDAP[R], 9
+MDRP[m>RBl], 64
+MDAP[R], 19
+MDRP[m>RBl], 50
+MDAP[R], 27
+MDRP[m>RBl], 74
+MDAP[R], 79
+MDRP[m>RBl], 34
+SVTCA[X]
+MDAP[R], 14
+MDRP[m>RBl], 57
+MDAP[R], 32
+MDRP[m&lt;RGr], 44
+MDRP[m>RBl], 69
+MDAP[R], 45
+MDRP[M>RBl], 79
+MDRP[m&lt;rGr], 34
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="ogonek">
+/* TT glyph 360, char 0x2db */
+/* VTT 4.2 compiler Sat Sep 10 10:59:07 2011 */
+SVTCA[Y]
+MDAP[R], 19
+MDRP[m>RBl], 10
+MDAP[R], 29
+MDRP[m>RBl], 2
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RGr], 14
+MDAP[R], 24
+MDRP[m>RBl], 5
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="one">
+/* TT glyph 258, char 0x31 (1) */
+/* VTT 4.2 compiler Fri Sep 09 17:32:06 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m&lt;rGr], 5
+SRP0[], 8
+MDRP[m&lt;rGr], 6
+SVTCA[X]
+MDAP[R], 6
+MDRP[m>RBl], 0
+SRP0[], 7
+MDRP[m&lt;RWh], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="onehalf">
+/* TT glyph 281, char 0xbd */
+/* VTT 4.2 compiler Fri Sep 09 18:00:50 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m>RBl], 30
+MDRP[m&lt;rGr], 40
+MDAP[R], 20
+MDRP[m>RBl], 9
+MDRP[m&lt;RGr], 39
+MDAP[R], 38
+MDRP[m&lt;rGr], 42
+SVTCA[X]
+MDAP[R], 1
+MDRP[m&lt;RWh], 14
+MDRP[m>RBl], 30
+MDAP[R], 25
+MDRP[m>RBl], 6
+MDRP[m&lt;RWh], 31
+MDRP[m&lt;RGr], 43
+MDAP[R], 33
+MDRP[m>RBl], 39
+MDRP[m&lt;RWh], 41
+SRP0[], 44
+MDRP[m&lt;RWh], 35
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="onequarter">
+/* TT glyph 280, char 0xbc */
+/* VTT 4.2 compiler Fri Sep 09 17:59:05 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m&lt;rGr], 1
+MDRP[M>RBl], 13
+MDRP[m&lt;rGr], 9
+MDAP[R], 7
+MDRP[m>RBl], 11
+MDRP[m&lt;RGr], 20
+MDAP[R], 19
+MDRP[m&lt;rGr], 23
+MDAP[R], 21
+MDRP[m&lt;rGr], 3
+SVTCA[X]
+MDAP[R], 2
+MDRP[m&lt;rGr], 9
+MDRP[M>RBl], 3
+MDRP[m&lt;rGr], 13
+MDAP[R], 5
+MDRP[m>RBl], 12
+MDAP[R], 14
+MDRP[m>RBl], 20
+MDRP[m&lt;RWh], 22
+SRP0[], 25
+MDRP[m&lt;RWh], 16
+SRP0[], 26
+MDRP[M&lt;RWh], 0
+MDRP[m&lt;RGr], 24
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="onesuperior">
+/* TT glyph 277, char 0xb9 */
+/* VTT 4.2 compiler Fri Sep 09 17:54:12 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 6
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 6
+SRP0[], 7
+MDRP[m&lt;RWh], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="ordfeminine">
+/* TT glyph 284, char 0xaa */
+/* VTT 4.2 compiler Fri Sep 09 18:05:26 2011 */
+SVTCA[Y]
+MDAP[R], 8
+MDRP[m>RBl], 52
+MDRP[M&lt;RGr], 4
+MDRP[M&lt;RWh], 1
+MDRP[m>RBl], 0
+MDAP[R], 17
+MDRP[m>RBl], 43
+MDAP[R], 35
+MDRP[m>RBl], 24
+SVTCA[X]
+MDAP[R], 13
+MDRP[m&lt;RGr], 1
+MDRP[m&lt;RGr], 30
+MDRP[m>RBl], 48
+MDAP[R], 41
+MDRP[m&lt;RWh], 2
+MDRP[M>RBl], 4
+MDRP[M&lt;rGr], 57
+MDRP[m&lt;rGr], 18
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="ordmasculine">
+/* TT glyph 285, char 0xba */
+/* VTT 4.2 compiler Fri Sep 09 18:07:14 2011 */
+SVTCA[Y]
+MDAP[R], 9
+MDRP[m>RBl], 39
+MDRP[M&lt;RWh], 1
+MDRP[m>RBl], 0
+MDAP[R], 19
+MDRP[m>RBl], 29
+SVTCA[X]
+MDAP[R], 4
+MDRP[m&lt;RGr], 2
+MDRP[m>RBl], 24
+MDAP[R], 14
+MDRP[m&lt;RGr], 1
+MDRP[m>RBl], 33
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="oslash">
+/* TT glyph 188, char 0xf8 */
+/* VTT 4.2 compiler Fri Sep 09 17:26:31 2011 */
+SVTCA[Y]
+MDAP[R], 9
+MDRP[M&lt;RWh], 5
+MDRP[m>RBl], 36
+MDAP[R], 22
+MDRP[M&lt;RWh], 19
+MDRP[m>RBl], 50
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RGr], 23
+MDRP[m>RBl], 27
+MDAP[R], 14
+MDRP[m&lt;RGr], 10
+MDRP[m>RBl], 41
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="p">
+/* TT glyph 42, char 0x70 (p) */
+/* VTT 4.2 compiler Fri Sep 09 14:58:22 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m&lt;RWh], 7
+MDRP[m>RBl], 23
+MDAP[R], 10
+MDRP[m>RBl], 20
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 15
+MDAP[R], 8
+MDRP[M>RBl], 7
+MDRP[m&lt;rGr], 22
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="paragraph">
+/* TT glyph 321, char 0xb6 */
+/* VTT 4.2 compiler Fri Sep 09 18:41:14 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m&lt;rGr], 0
+MDAP[R], 16
+MDRP[m>RBl], 1
+SVTCA[X]
+MDAP[R], 4
+MDRP[m>RBl], 3
+MDAP[R], 17
+MDRP[m>RBl], 0
+SRP0[], 18
+MDRP[m&lt;RWh], 10
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="parenleft">
+/* TT glyph 311, char 0x28 (() */
+/* VTT 4.2 compiler Fri Sep 09 18:30:47 2011 */
+SVTCA[Y]
+SRP0[], 22
+MDRP[m&lt;RWh], 6
+SRP0[], 23
+MDRP[m&lt;RGr], 16
+SVTCA[X]
+MDAP[R], 11
+MDRP[m>RBl], 0
+MDAP[R], 17
+MDRP[m&lt;rGr], 5
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="parenright">
+/* TT glyph 312, char 0x29 ()) */
+/* VTT 4.2 compiler Fri Sep 09 18:31:18 2011 */
+SVTCA[Y]
+SRP0[], 35
+MDRP[m&lt;RWh], 27
+SRP0[], 36
+MDRP[m&lt;RGr], 8
+SVTCA[X]
+MDAP[R], 5
+MDRP[m&lt;rGr], 30
+MDAP[R], 16
+MDRP[m>RBl], 0
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="partialdiff">
+/* TT glyph 367, char 0x2202 */
+/* VTT 4.2 compiler Sat Sep 10 11:01:46 2011 */
+SVTCA[Y]
+MDAP[R], 11
+MDRP[m>RBl], 0
+MDAP[R], 21
+MDRP[m>RBl], 51
+MDAP[R], 31
+MDRP[m>RBl], 41
+SVTCA[X]
+MDAP[R], 16
+MDRP[M>RBl], 36
+MDRP[m>RBl], 56
+MDAP[R], 26
+MDRP[m&lt;RGr], 4
+MDRP[m>RBl], 46
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="percent">
+/* TT glyph 274, char 0x25 (%) */
+/* VTT 4.2 compiler Fri Sep 09 17:50:23 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[M&lt;RGr], 49
+MDRP[m>RBl], 79
+MDAP[R], 9
+MDRP[m>RBl], 39
+MDAP[R], 19
+MDRP[m&lt;RGr], 2
+MDRP[m>RBl], 29
+MDAP[R], 59
+MDRP[m>RBl], 69
+SVTCA[X]
+MDAP[R], 4
+MDRP[m>RBl], 24
+MDAP[R], 14
+MDRP[m&lt;RGr], 1
+MDRP[m>RBl], 34
+MDAP[R], 44
+MDRP[m&lt;RGr], 3
+MDRP[m>RBl], 64
+MDAP[R], 54
+MDRP[m>RBl], 74
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="period">
+/* TT glyph 325, char 0x2e (.) */
+/* VTT 4.2 compiler Fri Sep 09 18:45:13 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="periodcentered">
+/* TT glyph 343, char 0xb7 */
+/* VTT 4.2 compiler Sat Sep 10 10:51:05 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="perthousand">
+/* TT glyph 275, char 0x2030 */
+/* VTT 4.2 compiler Fri Sep 09 17:50:43 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[M&lt;RGr], 49
+MDRP[m>RBl], 79
+MDAP[R], 9
+MDRP[m>RBl], 39
+MDAP[R], 19
+MDRP[m&lt;RGr], 2
+MDRP[m>RBl], 29
+MDAP[R], 59
+MDRP[m>RBl], 69
+MDAP[R], 89
+MDRP[m>RBl], 119
+MDAP[R], 99
+MDRP[m>RBl], 109
+SVTCA[X]
+MDAP[R], 4
+MDRP[m>RBl], 24
+MDAP[R], 14
+MDRP[m&lt;RGr], 1
+MDRP[m>RBl], 34
+MDAP[R], 44
+MDRP[m&lt;RGr], 3
+MDRP[m>RBl], 64
+MDAP[R], 54
+MDRP[m>RBl], 74
+MDAP[R], 84
+MDRP[m>RBl], 104
+MDAP[R], 94
+MDRP[m>RBl], 114
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="plus">
+/* TT glyph 286, char 0x2b (+) */
+/* VTT 4.2 compiler Fri Sep 09 18:09:36 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[M>RBl], 4
+MDRP[m&lt;RWh], 2
+MDAP[R], 10
+MDRP[m&lt;RWh], 8
+MDRP[m>RBl], 11
+SVTCA[X]
+MDAP[R], 2
+MDRP[M>RBl], 1
+MDRP[m&lt;RWh], 11
+MDAP[R], 7
+MDRP[m&lt;RWh], 5
+MDRP[m>RBl], 8
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="plusminus">
+/* TT glyph 294, char 0xb1 */
+/* VTT 4.2 compiler Fri Sep 09 18:19:59 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m>RBl], 1
+MDAP[R], 3
+MDRP[m>RBl], 2
+MDAP[R], 8
+MDRP[m&lt;RWh], 6
+MDRP[m>RBl], 9
+MDAP[R], 15
+MDRP[M>RBl], 14
+MDRP[m&lt;RWh], 12
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;rGr], 8
+MDAP[R], 2
+MDRP[m&lt;rGr], 14
+MDAP[R], 5
+MDRP[m>RBl], 6
+MDAP[R], 12
+MDRP[m>RBl], 11
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="q">
+/* TT glyph 43, char 0x71 (q) */
+/* VTT 4.2 compiler Fri Sep 09 14:58:57 2011 */
+SVTCA[Y]
+MDAP[R], 11
+MDRP[m&lt;RWh], 8
+MDRP[m>RBl], 45
+MDAP[R], 21
+MDRP[m>RBl], 31
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RWh], 7
+MDRP[m>RBl], 26
+MDAP[R], 16
+MDRP[m>RBl], 38
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="question">
+/* TT glyph 331, char 0x3f (?) */
+/* VTT 4.2 compiler Fri Sep 09 18:48:33 2011 */
+SVTCA[Y]
+MDAP[R], 9
+MDRP[m>RBl], 10
+MDRP[m&lt;RWh], 40
+MDAP[R], 33
+MDRP[m>RBl], 22
+SRP0[], 43
+MDRP[m&lt;rGr], 41
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 17
+MDAP[R], 9
+MDRP[m>RBl], 8
+MDAP[R], 39
+MDRP[m>RBl], 40
+SRP0[], 42
+MDRP[m&lt;RWh], 27
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="questiondown">
+/* TT glyph 332, char 0xbf */
+/* VTT 4.2 compiler Fri Sep 09 18:49:22 2011 */
+SVTCA[Y]
+MDAP[R], 31
+MDRP[m>RBl], 20
+MDAP[R], 39
+MDRP[M>RBl], 38
+MDRP[M&lt;RWh], 9
+MDRP[m>RBl], 10
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 15
+MDAP[R], 8
+MDRP[m>RBl], 9
+MDAP[R], 39
+MDRP[m>RBl], 36
+SRP0[], 41
+MDRP[m&lt;RWh], 25
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedbl">
+/* TT glyph 309, char 0x22 (") */
+/* VTT 4.2 compiler Fri Sep 09 18:28:43 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m&lt;rGr], 5
+MDAP[R], 3
+MDRP[m&lt;rGr], 4
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+MDAP[R], 6
+MDRP[m>RBl], 5
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedblbase">
+/* TT glyph 338, char 0x201e */
+/* VTT 4.2 compiler Sat Sep 10 10:48:51 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m&lt;rGr], 1
+MDAP[R], 7
+MDRP[m&lt;rGr], 2
+SVTCA[X]
+MDAP[R], 3
+MDRP[m>RBl], 2
+MDAP[R], 6
+MDRP[m>RBl], 7
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedblleft">
+/* TT glyph 335, char 0x201c */
+/* VTT 4.2 compiler Sat Sep 10 10:47:54 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m&lt;rGr], 4
+MDAP[R], 2
+MDRP[m&lt;rGr], 7
+SVTCA[X]
+MDAP[R], 3
+MDRP[m>RBl], 2
+MDAP[R], 6
+MDRP[m>RBl], 7
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedblright">
+/* TT glyph 336, char 0x201d */
+/* VTT 4.2 compiler Sat Sep 10 10:48:10 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m&lt;rGr], 1
+MDAP[R], 7
+MDRP[m&lt;rGr], 2
+SVTCA[X]
+MDAP[R], 3
+MDRP[m>RBl], 2
+MDAP[R], 6
+MDRP[m>RBl], 7
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="quoteleft">
+/* TT glyph 333, char 0x2018 */
+/* VTT 4.2 compiler Sat Sep 10 10:47:17 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m>RBl], 2
+SVTCA[X]
+MDAP[R], 3
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="quoteright">
+/* TT glyph 334, char 0x2019 */
+/* VTT 4.2 compiler Sat Sep 10 10:47:35 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 2
+MDRP[m>RBl], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="quotesinglbase">
+/* TT glyph 337, char 0x201a */
+/* VTT 4.2 compiler Sat Sep 10 10:48:28 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 2
+MDRP[m>RBl], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="quotesingle">
+/* TT glyph 308, char 0x27 (') */
+/* VTT 4.2 compiler Fri Sep 09 18:28:23 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+SVTCA[X]
+MDAP[R], 1
+MDRP[m>RBl], 2
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="r">
+/* TT glyph 44, char 0x72 (r) */
+/* VTT 4.2 compiler Fri Sep 09 16:54:09 2011 */
+SVTCA[Y]
+MDAP[R], 19
+MDRP[m>RBl], 4
+MDRP[m&lt;RGr], 13
+SRP0[], 26
+MDRP[m&lt;rGr], 11
+SVTCA[X]
+MDAP[R], 11
+MDRP[M>RBl], 10
+MDRP[m&lt;rGr], 14
+SRP0[], 27
+MDRP[m&lt;RWh], 25
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="registered">
+/* TT glyph 323, char 0xae */
+/* VTT 4.2 compiler Fri Sep 09 18:43:42 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 25
+MDAP[R], 15
+MDRP[m>RBl], 35
+MDAP[R], 43
+MDRP[m>RBl], 59
+MDAP[R], 54
+MDRP[m>RBl], 62
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 30
+MDAP[R], 10
+MDRP[m>RBl], 20
+MDAP[R], 41
+MDRP[M>RBl], 40
+MDRP[m&lt;rGr], 61
+MDAP[R], 46
+MDRP[m&lt;RGr], 52
+MDRP[m>RBl], 56
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="ring">
+/* TT glyph 359, char 0x2da */
+/* VTT 4.2 compiler Sat Sep 10 10:58:41 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 29
+MDAP[R], 15
+MDRP[m>RBl], 23
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 20
+MDAP[R], 10
+MDRP[m>RBl], 26
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="s">
+/* TT glyph 45, char 0x73 (s) */
+/* VTT 4.2 compiler Fri Sep 09 15:00:51 2011 */
+SVTCA[Y]
+MDAP[R], 17
+MDRP[m>RBl], 48
+MDAP[R], 30
+MDRP[m>RBl], 37
+MDAP[R], 60
+MDRP[m>RBl], 5
+SVTCA[X]
+MDAP[R], 53
+MDRP[m>RBl], 11
+MDRP[m&lt;RGr], 33
+MDAP[R], 65
+MDRP[M&lt;RGr], 23
+MDRP[m>RBl], 42
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="section">
+/* TT glyph 320, char 0xa7 */
+/* VTT 4.2 compiler Fri Sep 09 18:40:46 2011 */
+SVTCA[Y]
+MDAP[R], 14
+MDRP[m>RBl], 23
+MDAP[R], 51
+MDRP[m>RBl], 59
+MDAP[R], 70
+MDRP[m>RBl], 78
+MDAP[R], 85
+MDRP[m>RBl], 33
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RGr], 54
+MDRP[m>RBl], 74
+MDAP[R], 8
+MDRP[m>RBl], 28
+MDAP[R], 38
+MDRP[m&lt;RGr], 18
+MDRP[m>RBl], 82
+MDAP[R], 46
+MDRP[m>RBl], 64
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="semicolon">
+/* TT glyph 328, char 0x3b (;) */
+/* VTT 4.2 compiler Fri Sep 09 18:46:01 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+MDAP[R], 6
+MDRP[m>RBl], 4
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 3
+MDAP[R], 6
+MDRP[m>RBl], 7
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="seven">
+/* TT glyph 264, char 0x37 (7) */
+/* VTT 4.2 compiler Fri Sep 09 17:35:28 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m>RBl], 3
+SRP0[], 7
+MDRP[m&lt;rGr], 1
+SVTCA[X]
+MDAP[R], 6
+MDRP[m>RBl], 2
+SRP0[], 7
+MDRP[m&lt;RWh], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="six">
+/* TT glyph 263, char 0x36 (6) */
+/* VTT 4.2 compiler Fri Sep 09 16:06:14 2011 */
+SVTCA[Y]
+MDAP[R], 10
+MDRP[m>RBl], 56
+MDAP[R], 20
+MDRP[m>RBl], 46
+MDAP[R], 30
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 15
+MDRP[m&lt;RGr], 36
+MDRP[m>RBl], 51
+MDAP[R], 25
+MDRP[M>RBl], 41
+MDRP[m&lt;RBl], 5
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="slash">
+/* TT glyph 306, char 0x2f (/) */
+/* VTT 4.2 compiler Fri Sep 09 18:27:53 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 0
+SVTCA[X]
+MDAP[R], 3
+MDRP[m>RBl], 1
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="sterling">
+/* TT glyph 269, char 0xa3 */
+/* VTT 4.2 compiler Fri Sep 09 17:40:34 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 69
+MDAP[R], 33
+MDRP[m>RBl], 43
+MDAP[R], 52
+MDRP[m&lt;rGr], 24
+MDRP[M>RBl], 51
+MDRP[m&lt;rGr], 27
+SVTCA[X]
+MDAP[R], 18
+MDRP[m>RBl], 59
+MDAP[R], 24
+MDRP[m&lt;rGr], 27
+MDRP[M>RBl], 53
+MDRP[m&lt;rGr], 50
+MDAP[R], 37
+MDRP[M&lt;RWh], 51
+MDRP[m&lt;RGr], 0
+SRP0[], 75
+MDRP[m&lt;RWh], 25
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="t">
+/* TT glyph 46, char 0x74 (t) */
+/* VTT 4.2 compiler Fri Sep 09 15:01:28 2011 */
+SVTCA[Y]
+MDAP[R], 6
+MDRP[M>RBl], 7
+MDRP[m&lt;rGr], 3
+SRP0[], 8
+MDRP[m&lt;rGr], 2
+SVTCA[X]
+MDAP[R], 2
+MDRP[m>RBl], 1
+SRP0[], 8
+MDRP[m&lt;RWh], 5
+SRP0[], 9
+MDRP[m&lt;RWh], 6
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="tbar">
+/* TT glyph 214, char 0x167 */
+/* VTT 4.2 compiler Fri Sep 09 17:30:28 2011 */
+SVTCA[Y]
+MDAP[R], 3
+MDRP[m&lt;rGr], 7
+MDRP[M>RBl], 2
+MDRP[m&lt;rGr], 10
+MDAP[R], 14
+MDRP[M>RBl], 15
+MDRP[m&lt;rGr], 11
+SRP0[], 16
+MDRP[m&lt;rGr], 6
+SVTCA[X]
+MDAP[R], 6
+MDRP[m&lt;rGr], 10
+MDRP[M>RBl], 5
+MDRP[m&lt;rGr], 1
+SRP0[], 16
+MDRP[M&lt;RWh], 8
+MDRP[m&lt;RGr], 13
+SRP0[], 17
+MDRP[M&lt;RWh], 3
+MDRP[m&lt;RGr], 14
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="thorn">
+/* TT glyph 194, char 0xfe */
+/* VTT 4.2 compiler Fri Sep 09 15:52:14 2011 */
+SVTCA[Y]
+MDAP[R], 7
+MDRP[M&lt;RWh], 5
+MDRP[m>RBl], 25
+MDAP[R], 10
+MDRP[M&lt;RWh], 12
+MDRP[m>RBl], 22
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 17
+MDAP[R], 8
+MDRP[M>RBl], 7
+MDRP[M&lt;rGr], 24
+MDRP[m&lt;rGr], 11
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="three">
+/* TT glyph 260, char 0x33 (3) */
+/* VTT 4.2 compiler Fri Sep 09 16:01:53 2011 */
+SVTCA[Y]
+MDAP[R], 10
+MDRP[m>RBl], 21
+MDAP[R], 30
+MDRP[m>RBl], 33
+MDAP[R], 53
+MDRP[m>RBl], 44
+SVTCA[X]
+MDAP[R], 5
+MDRP[m>RBl], 26
+MDAP[R], 49
+MDRP[M&lt;RWh], 32
+MDRP[m&lt;RWh], 16
+MDAP[R], 58
+MDRP[m>RBl], 37
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="threequarters">
+/* TT glyph 282, char 0xbe */
+/* VTT 4.2 compiler Fri Sep 09 18:02:52 2011 */
+SVTCA[Y]
+MDAP[R], 13
+MDRP[m>RBl], 20
+MDAP[R], 32
+MDRP[m>RBl], 29
+MDAP[R], 52
+MDRP[m>RBl], 41
+MDRP[m&lt;RGr], 73
+MDAP[R], 60
+MDRP[m&lt;rGr], 71
+MDAP[R], 61
+MDRP[m&lt;rGr], 58
+MDRP[M>RBl], 70
+MDRP[m&lt;rGr], 66
+MDAP[R], 64
+MDRP[m>RBl], 68
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 35
+MDAP[R], 8
+MDRP[m>RBl], 25
+MDAP[R], 17
+MDRP[m&lt;RGr], 72
+MDRP[M&lt;RWh], 30
+MDRP[m&lt;RGr], 47
+MDAP[R], 59
+MDRP[m&lt;rGr], 66
+MDRP[M>RBl], 60
+MDRP[m&lt;rGr], 70
+MDAP[R], 63
+MDRP[m>RBl], 69
+MDAP[R], 67
+MDRP[m&lt;RWh], 74
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="threesuperior">
+/* TT glyph 279, char 0xb3 */
+/* VTT 4.2 compiler Fri Sep 09 17:55:28 2011 */
+SVTCA[Y]
+MDAP[R], 10
+MDRP[m>RBl], 21
+MDAP[R], 33
+MDRP[m>RBl], 30
+MDAP[R], 53
+MDRP[m>RBl], 42
+SVTCA[X]
+MDAP[R], 5
+MDRP[m>RBl], 26
+MDAP[R], 47
+MDRP[M&lt;RWh], 32
+MDRP[m&lt;RWh], 16
+MDAP[R], 58
+MDRP[m>RBl], 37
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="tilde">
+/* TT glyph 361, char 0x2dc */
+/* VTT 4.2 compiler Sat Sep 10 10:59:42 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m&lt;rGr], 14
+MDRP[m>RBl], 25
+MDAP[R], 20
+MDRP[m>RBl], 9
+MDRP[m&lt;rGr], 30
+SVTCA[X]
+SRP0[], 32
+MDRP[m&lt;RWh], 15
+SRP0[], 33
+MDRP[m&lt;RWh], 31
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="trademark">
+/* TT glyph 324, char 0x2122 */
+/* VTT 4.2 compiler Fri Sep 09 18:44:56 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[M&lt;rGr], 14
+MDRP[M&lt;rGr], 11
+MDRP[m&lt;rGr], 8
+MDAP[R], 6
+MDRP[M>RBl], 7
+MDRP[m&lt;rGr], 3
+SRP0[], 6
+MDRP[M&lt;rGr], 15
+MDRP[m&lt;rGr], 18
+SVTCA[X]
+MDAP[R], 2
+MDRP[m&lt;RWh], 4
+MDRP[M>RBl], 1
+MDRP[m&lt;RWh], 7
+MDAP[R], 14
+MDRP[m>RBl], 13
+MDAP[R], 20
+MDRP[m>RBl], 8
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="two">
+/* TT glyph 259, char 0x32 (2) */
+/* VTT 4.2 compiler Fri Sep 09 17:32:33 2011 */
+SVTCA[Y]
+MDAP[R], 22
+MDRP[m>RBl], 13
+MDAP[R], 35
+MDRP[m>RBl], 36
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RGr], 18
+MDRP[m>RBl], 34
+MDAP[R], 35
+MDRP[M&lt;RWh], 27
+MDRP[m>RBl], 6
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="twosuperior">
+/* TT glyph 278, char 0xb2 */
+/* VTT 4.2 compiler Fri Sep 09 17:54:46 2011 */
+SVTCA[Y]
+MDAP[R], 19
+MDRP[m>RBl], 12
+MDAP[R], 32
+MDRP[m>RBl], 31
+SVTCA[X]
+MDAP[R], 1
+MDRP[m&lt;RWh], 16
+MDAP[R], 25
+MDRP[m>RBl], 6
+MDRP[m&lt;RWh], 31
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="u">
+/* TT glyph 47, char 0x75 (u) */
+/* VTT 4.2 compiler Fri Sep 09 16:54:33 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m&lt;rGr], 12
+MDAP[R], 21
+MDRP[m>RBl], 6
+MDRP[m&lt;RGr], 15
+SVTCA[X]
+MDAP[R], 13
+MDRP[M>RBl], 12
+MDRP[m&lt;rGr], 16
+MDAP[R], 26
+MDRP[m>RBl], 1
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="underscore">
+/* TT glyph 349, char 0x5f (_) */
+/* VTT 4.2 compiler Sat Sep 10 10:52:39 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+SVTCA[X]
+SRP0[], 4
+MDRP[m&lt;rGr], 0
+SRP0[], 5
+MDRP[m&lt;rGr], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="uni00AD">
+/* TT glyph 346, char 0xad */
+/* VTT 4.2 compiler Sat Sep 10 10:52:03 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m>RBl], 3
+SVTCA[X]
+SRP0[], 4
+MDRP[m&lt;RWh], 0
+SRP0[], 5
+MDRP[m&lt;RWh], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="uni2215">
+/* TT glyph 369, char 0x2215 */
+/* VTT 4.2 compiler Sat Sep 10 11:02:20 2011 */
+SVTCA[Y]
+SRP0[], 4
+MDRP[m&lt;rGr], 1
+SRP0[], 5
+MDRP[m&lt;RGr], 2
+SVTCA[X]
+MDAP[R], 2
+MDRP[m>RBl], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="uogonek">
+/* TT glyph 234, char 0x173 */
+/* VTT 4.2 compiler Fri Sep 09 17:31:25 2011 */
+SVTCA[Y]
+MDAP[R], 0
+MDRP[m&lt;rGr], 12
+MDAP[R], 32
+MDRP[m>RBl], 21
+MDAP[R], 48
+MDRP[m>RBl], 6
+MDRP[m&lt;RGr], 15
+SVTCA[X]
+MDAP[R], 13
+MDRP[M>RBl], 12
+MDRP[m&lt;rGr], 43
+MDAP[R], 37
+MDRP[m>RBl], 18
+MDAP[R], 53
+MDRP[m>RBl], 1
+SRP0[], 56
+MDRP[m&lt;RWh], 26
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="v">
+/* TT glyph 48, char 0x76 (v) */
+/* VTT 4.2 compiler Fri Sep 09 15:02:38 2011 */
+SVTCA[Y]
+MDAP[R], 1
+MDRP[m>RBl], 4
+MDAP[R], 3
+MDRP[m&lt;rGr], 5
+SVTCA[X]
+SRP0[], 7
+MDRP[m&lt;RWh], 2
+SRP0[], 8
+MDRP[m&lt;RWh], 6
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="w">
+/* TT glyph 49, char 0x77 (w) */
+/* VTT 4.2 compiler Fri Sep 09 16:54:47 2011 */
+SVTCA[Y]
+MDAP[R], 8
+MDRP[m>RBl], 11
+MDRP[M&lt;rGr], 5
+MDRP[m>RBl], 1
+MDAP[R], 10
+MDRP[M&lt;rGr], 12
+MDRP[m&lt;rGr], 2
+MDRP[m>RBl], 6
+SVTCA[X]
+SRP0[], 13
+MDRP[m&lt;RWh], 9
+SRP0[], 14
+MDRP[m&lt;RWh], 3
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="x">
+/* TT glyph 50, char 0x78 (x) */
+/* VTT 4.2 compiler Fri Sep 09 15:03:42 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m&lt;rGr], 2
+MDAP[R], 8
+MDRP[m&lt;rGr], 10
+SVTCA[X]
+MDAP[R], 7
+MDRP[m&lt;RWh], 5
+MDAP[R], 11
+MDRP[m&lt;RWh], 1
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="y">
+/* TT glyph 51, char 0x79 (y) */
+/* VTT 4.2 compiler Fri Sep 09 15:05:18 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 16
+MDAP[R], 34
+MDRP[m&lt;rGr], 46
+MDAP[R], 40
+MDRP[m>RBl], 27
+SVTCA[X]
+MDAP[R], 32
+MDRP[m&lt;rGr], 11
+MDRP[m>RBl], 35
+MDAP[R], 47
+MDRP[M>RBl], 46
+MDRP[m&lt;rGr], 24
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="yen">
+/* TT glyph 270, char 0xa5 */
+/* VTT 4.2 compiler Fri Sep 09 17:44:02 2011 */
+SVTCA[Y]
+MDAP[R], 2
+MDRP[m&lt;rGr], 4
+MDAP[R], 8
+MDRP[m&lt;rGr], 22
+MDRP[M>RBl], 7
+MDRP[m&lt;rGr], 0
+MDAP[R], 14
+MDRP[m&lt;rGr], 17
+MDRP[M>RBl], 11
+MDRP[m&lt;rGr], 20
+SRP0[], 25
+MDRP[m&lt;rGr], 16
+SVTCA[X]
+MDAP[R], 12
+MDRP[m&lt;rGr], 7
+MDAP[R], 16
+MDRP[m&lt;rGr], 20
+MDRP[M>RBl], 15
+MDRP[m&lt;rGr], 11
+MDAP[R], 19
+MDRP[m&lt;rGr], 24
+SRP0[], 25
+MDRP[m&lt;RWh], 1
+SRP0[], 26
+MDRP[m&lt;RWh], 5
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="z">
+/* TT glyph 52, char 0x7a (z) */
+/* VTT 4.2 compiler Fri Sep 09 16:55:26 2011 */
+SVTCA[Y]
+MDAP[R], 4
+MDRP[m>RBl], 3
+MDAP[R], 9
+MDRP[m>RBl], 8
+SVTCA[X]
+MDAP[R], 0
+MDRP[m&lt;RGr], 4
+MDRP[m>RBl], 7
+MDAP[R], 8
+MDRP[m&lt;RWh], 6
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <glyphProgram name="zero">
+/* TT glyph 257, char 0x30 (0) */
+/* VTT 4.2 compiler Fri Sep 09 15:59:24 2011 */
+SVTCA[Y]
+MDAP[R], 5
+MDRP[m>RBl], 39
+MDAP[R], 19
+MDRP[m>RBl], 29
+SVTCA[X]
+MDAP[R], 0
+MDRP[m>RBl], 24
+MDAP[R], 12
+MDRP[m>RBl], 34
+IUP[X]
+IUP[Y]
+
+    </glyphProgram>
+
+    <extraProgram name="cvt">
+0: 42
+1: 115
+2: 129
+3: 180
+4: 190
+5: 0
+6: 29
+7: -424
+8: 4
+9: 1120
+10: 27
+11: 1493
+12: 27
+
+    </extraProgram>
+
+  </TSI1>
+
+</ttFont>
